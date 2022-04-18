@@ -5,7 +5,11 @@
 * [Certified Kubernetes Administrator (CKA) - A Cloud **Guru**](https://learn.acloud.guru/course/certified-kubernetes-administrator/)
 * Do 2–3 times the following [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
 * Do the [CKAD series with scenarios](https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681) on Medium
-* Do the [CKA series with scenarios](https://medium.com/@wuestkamp/kubernetes-cka-example-questions-practical-challenge-86318d85b4d?source=friends_link&sk=cb63eb0edd1210851f01df24b2142db2) on Medium
+* Do the [CKA series with scenarios](https://killercoda.com/killer-shell-cka)
+* Do the [chadmcrowell/CKA-Exercises](https://github.com/chadmcrowell/CKA-Exercises)
+* Do the [moabukar/CKA-Exercises](https://github.com/moabukar/CKA-Exercises)
+* Do the [alijahnas/CKA-practice-exercises](https://github.com/alijahnas/CKA-practice-exercises)
+* Do the [Certified Kubernetes Administrator (CKA) Crash Course](https://github.com/bmuschko/cka-crash-course)
 * [Know advanced scheduling](https://kubernetes.io/docs/concepts/scheduling/kube-scheduler)
 * Understand [debug-service](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-service/)
 
