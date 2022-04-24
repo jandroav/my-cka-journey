@@ -3,7 +3,9 @@
 ## Prepare your exam
 
 * [Certified Kubernetes Administrator (CKA) - A Cloud **Guru**](https://learn.acloud.guru/course/certified-kubernetes-administrator/)
-* Do 2–3 times the following [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
+* Do the [Killercoda scenarios](https://killercoda.com/killer-shell-cka)
+* Do the [Killer.sh exam simulators (included in the CKA registration)](https://killer.sh/)
+* Do 2–3 times the following [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) (Only the ones related to the [CKA curriculum](https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.22.pdf))
 * Do the [CKAD series with scenarios](https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681) on Medium
 * Do the [CKA series with scenarios](https://killercoda.com/killer-shell-cka)
 * Do the [chadmcrowell/CKA-Exercises](https://github.com/chadmcrowell/CKA-Exercises)
