@@ -3,6 +3,7 @@
 ## Prepare your exam
 
 * [Certified Kubernetes Administrator (CKA) - A Cloud **Guru**](https://learn.acloud.guru/course/certified-kubernetes-administrator/)
+* [Certified Kubernetes Administrator (CKA) with Practice Tests - Udemy](https://cloudbees.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
 * Do 2–3 times the following [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
 * Do the [CKAD series with scenarios](https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681) on Medium
 * Do the [CKA series with scenarios](https://killercoda.com/killer-shell-cka)
@@ -10,8 +11,6 @@
 * Do the [moabukar/CKA-Exercises](https://github.com/moabukar/CKA-Exercises)
 * Do the [alijahnas/CKA-practice-exercises](https://github.com/alijahnas/CKA-practice-exercises)
 * Do the [Certified Kubernetes Administrator (CKA) Crash Course](https://github.com/bmuschko/cka-crash-course)
-* [Know advanced scheduling](https://kubernetes.io/docs/concepts/scheduling/kube-scheduler)
-* Understand [debug-service](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-service/)
 
 
 ## Exam tips
